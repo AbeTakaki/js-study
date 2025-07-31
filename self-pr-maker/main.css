@@ -1,9 +1,12 @@
 body {
     /* ここに全体の装飾を書く */
+    background-color: aliceblue;
+    text-align: center;
 }
 
 #face {
     /* ここに画像の装飾を書く */
+    width: 500px;
 }
 
 /* ここから下は吹き出しの装飾 */
